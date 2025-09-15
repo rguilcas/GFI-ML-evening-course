@@ -7,3 +7,4 @@ scikit-learn==1.7.1
 torch==2.3.0+cpu
 seaborn==0.13.2
 tqdm==4.67.1
+xarray==2025.7.1
